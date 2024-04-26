@@ -22,14 +22,13 @@
       "searchable": 1
     },
     {
-      "key": "csp_xBPQ_香蕉资源",
+      "key": "csp_XBPQ_香蕉资源",
       "name": "香蕉资源",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
       "ext": "./lib/香蕉资源.json"
     },
     {
@@ -390,7 +389,7 @@
       "ext": ""
     },
     {
-      "key": "csp_xBPQ_404精品",
+      "key": "csp_XBPQ_404精品",
       "name": "404精品T",
       "type": 3,
       "api": "csp_XBPQ",
@@ -412,10 +411,10 @@
       }
     },
     {
-      "key": "csp_xBPQ_超清",
+      "key": "csp_XBPQ_超清",
       "name": "香蕉超清",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -435,8 +434,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_xBPQ",
-      "jar": "./lib/Yoursmile2.jar",
+      "api": "csp_XBPQ",
       "ext": {
         "直接播放": "1",
         "嗅探词": "m3u8#.m3u8",
@@ -477,13 +475,12 @@
       "key": "cchinaxxoo",
       "name": "呆蛙影视|翻",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "csp_XBPQ",
       "ext": {
         "直接播放": "1",
         "分类url": "https://chinaxxoo1000.pw/index.php/vod/type/id/{cateId}/page/{catePg}.html",
         "分类": "有码$23#中文$24"
-      },
-      "jar": "./lib/Yoursmile2.jar"
+      }
     },
     {
       "key": "MissAV",
@@ -497,80 +494,73 @@
       }
     },
     {
-      "key": "csp_xBPQ_香蕉AV解说",
+      "key": "csp_XBPQ_香蕉AV解说",
       "name": "香蕉解说",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
       "ext": "./lib/新香蕉AV解说.json"
     },
     {
-      "key": "csp_xBPQ_香蕉资源",
+      "key": "csp_XBPQ_香蕉资源",
       "name": "香蕉资源",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
       "ext": "./lib/香蕉资源.json"
     },
     {
-      "key": "csp_xBPQ_香蕉超清",
+      "key": "csp_XBPQ_香蕉超清",
       "name": "香蕉超清",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
       "ext": "./lib/新香蕉超清资源.json"
     },
     {
-      "key": "csp_xBPQ_香蕉国产",
+      "key": "csp_XBPQ_香蕉国产",
       "name": "香蕉国产",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
       "ext": "./lib/新香蕉国产传媒.json"
     },
     {
-      "key": "csp_xBPQ_香蕉久久热",
+      "key": "csp_XBPQ_香蕉久久热",
       "name": "香蕉久久热",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
       "ext": "./lib/新香蕉久久热.json"
     },
     {
-      "key": "csp_xBPQ_香蕉废柴",
+      "key": "csp_XBPQ_香蕉废柴",
       "name": "香蕉废柴",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
       "ext": "./lib/新香蕉废柴网.json"
     },
     {
-      "key": "csp_xBPQ_香蕉直播",
+      "key": "csp_XBPQ_香蕉直播",
       "name": "香蕉直播",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
       "ext": "./lib/新香蕉实时直播.json"
     },
     {
@@ -619,10 +609,10 @@
       "searchable": 1
     },
     {
-      "key": "csp_xBPQ_聚优AV解说",
+      "key": "csp_XBPQ_聚优AV解说",
       "name": "聚优AV解说",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -847,7 +837,7 @@
       "name": "顶级国产┃🐶",
       "type": 3,
       "直接播放": "1",
-      "api": "csp_xBPQ",
+      "api": "csp_XBPQ",
       "ext": {
         "分类url": "https://aoo.qoqoavideo2.sbs/vodtype/{cateId}/page/{catePg}.html",
         "分类": "国产$20#日本无码$22#饵食牝$136#欧美$23#欧美精品$104#三级$25#韩片$129#韩国唯美三级$132#韩国明星学生$130#韩国主播$131#AI换脸$41#国产精品$26#SWAG$135#偷拍自拍$29#精彩时刻$33#91大神$137#国产主播$35#3P群交$127#麻豆传媒$134#国产调教$81#美熟少妇$125#网红模特$86#女神学生$124#野合车震$90"
@@ -857,7 +847,7 @@
       "key": "姐姐",
       "name": "玩偶姐姐|影视",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "csp_XBPQ",
       "ext": {
         "图片": "data-src=\"&&\"",
         "直接播放": "1",
